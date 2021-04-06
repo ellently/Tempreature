@@ -1,1 +1,1 @@
-# Tempreature
+# Degree celsius to degree fahreheit
